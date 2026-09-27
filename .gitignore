@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+captures/
+local.properties
+
+# Keystore
+*.jks
+*.keystore
+
+# Native
+.externalNativeBuild/
+.cxx/
+
+# Room schemas
+app/schemas/
+
+# OS
+.DS_Store
+Thumbs.db
